@@ -7,6 +7,15 @@ When I had concerns over the many blind intersections in my small, wooded, and h
 What started as a personal engineering project has morphed into a full-time undertaking: now, I’m working on this project with a team for my EDD (Engineering Design & Development) class. in school. Our functional prototype is complete and is currently undergoing testing.
 
 # Completed Prototype
+### The Speed Gun Component
+![speed gun 1](https://github.com/ngwattcos/LiveLearning/blob/master/images/final/speed3.jpg)
+![speed gun 2](https://github.com/ngwattcos/LiveLearning/blob/master/images/final/speed2.jpg)
+![speed gun 3](https://github.com/ngwattcos/LiveLearning/blob/master/images/final/speed1.jpg)
+
+### The Street Signal Component
+![street signal 2](https://github.com/ngwattcos/LiveLearning/blob/master/images/final/speed2.jpg)
+![street signal 1](https://github.com/ngwattcos/LiveLearning/blob/master/images/final/speed1.jpg)
+![street signal 3](https://github.com/ngwattcos/LiveLearning/blob/master/images/final/speed3.jpg)
 
 # Construction
 
