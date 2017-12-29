@@ -13,9 +13,9 @@ What started as a personal engineering project has morphed into a full-time unde
 ![speed gun 3](https://github.com/ngwattcos/BIWS-Blind-Intersection-Warning-System-/blob/master/images/final/speed1.JPG)
 
 ### The Street Signal Component
-![street signal 2](https://github.com/ngwattcos/BIWS-Blind-Intersection-Warning-System-/blob/master/images/final/speed2.JPG)
-![street signal 1](https://github.com/ngwattcos/BIWS-Blind-Intersection-Warning-System-/blob/master/images/final/speed1.JPG)
-![street signal 3](https://github.com/ngwattcos/BIWS-Blind-Intersection-Warning-System-/blob/master/images/final/speed3.JPG)
+![street signal 2](https://github.com/ngwattcos/BIWS-Blind-Intersection-Warning-System-/blob/master/images/final/warn2.JPG)
+![street signal 1](https://github.com/ngwattcos/BIWS-Blind-Intersection-Warning-System-/blob/master/images/final/warn1.JPG)
+![street signal 3](https://github.com/ngwattcos/BIWS-Blind-Intersection-Warning-System-/blob/master/images/final/warn3.JPG)
 
 # Construction
 
