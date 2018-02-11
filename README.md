@@ -1,5 +1,6 @@
 # BIWS – Blind Intersection Warning System-
 A repository to keep track of progress on the Blind Intersection Warning System
+![all](https://github.com/ngwattcos/BIWS-Blind-Intersection-Warning-System-/blob/master/images/final/both0.jpg) ![all](https://github.com/ngwattcos/BIWS-Blind-Intersection-Warning-System-/blob/master/images/final/both1.jpg) ![all](https://github.com/ngwattcos/BIWS-Blind-Intersection-Warning-System-/blob/master/images/final/both2.jpg)
 
 ## How It Started
 When I had concerns over the many blind intersections in my small, wooded, and hilly town, I proposed building an advance-warning system to improve the safety of blind intersections. I petitioned my mayor on the issue and to consider my proposed solution.
@@ -24,3 +25,4 @@ What started as a personal engineering project has morphed into a full-time unde
 ## Construction
 
 ## Testing Photos
+![all](https://github.com/ngwattcos/BIWS-Blind-Intersection-Warning-System-/blob/master/images/testing/testing0.png)
