@@ -1,5 +1,5 @@
-# BIWS – Blind Intersection Warning System-
-A repository to keep track of progress on the Blind Intersection Warning System
+# Project Tiresias – Blind Intersection Advance Warning System
+A repository to keep track of progress on the blind intersection advance warning system
 
 ### Images
 ![all of them 1](https://github.com/ngwattcos/BIWS-Blind-Intersection-Warning-System-/blob/master/images/final/both0.jpg) ![all of them 2](https://github.com/ngwattcos/BIWS-Blind-Intersection-Warning-System-/blob/master/images/final/both1.jpg)
