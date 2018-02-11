@@ -2,8 +2,8 @@
 A repository to keep track of progress on the Blind Intersection Warning System
 
 
-![speed gun 1](https://github.com/ngwattcos/BIWS-Blind-Intersection-Warning-System-/blob/master/images/final/both0.jpg) ![speed gun 2](https://github.com/ngwattcos/BIWS-Blind-Intersection-Warning-System-/blob/master/images/final/both1.jpg)
-![speed gun 3](https://github.com/ngwattcos/BIWS-Blind-Intersection-Warning-System-/blob/master/images/final/both2.jpg)
+![speed gun 1](https://github.com/ngwattcos/BIWS-Blind-Intersection-Warning-System-/blob/master/images/final/both0.jpg | height=100) ![speed gun 2](https://github.com/ngwattcos/BIWS-Blind-Intersection-Warning-System-/blob/master/images/final/both1.jpg | height=100)
+![speed gun 3](https://github.com/ngwattcos/BIWS-Blind-Intersection-Warning-System-/blob/master/images/final/both2.jpg | height=100)
 
 ## How It Started
 When I had concerns over the many blind intersections in my small, wooded, and hilly town, I proposed building an advance-warning system to improve the safety of blind intersections. I petitioned my mayor on the issue and to consider my proposed solution.
