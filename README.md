@@ -1,5 +1,5 @@
 # Project Tiresias – Blind Intersection Advance Warning System
-A repository to keep track of progress on the blind intersection advance warning system
+A repository to keep track of progress on the blind intersection advance warning system invented, built, and tested by Scott Wang, Lucas LaValva, Bridget Letson, and Matthew Rosivack
 
 ### Images
 ![all of them 1](https://github.com/ngwattcos/BIWS-Blind-Intersection-Warning-System-/blob/master/images/final/both0.jpg) ![all of them 2](https://github.com/ngwattcos/BIWS-Blind-Intersection-Warning-System-/blob/master/images/final/both1.jpg)
